@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kS60VFv/Bangladesh-Television-Logo-svg-1.png"group-title="",BTV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
