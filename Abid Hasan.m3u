@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfWmGwM/IMG-20240425-113851.jpg"group-title="",ABID HASAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv8Wbpq/IMG-20240425-165258.jpg"group-title="",ABID HASAN
 https://drive.google.com/file/d/19_TaUy9fF-erC6CVM_TVCXEg9YEg0W3z/view?usp=drivesdk
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfWmGwM/IMG-20240425-113851.jpg"group-title="",ABID HASAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7Bgk8Z/IMG-20240425-140915-880.jpg"group-title="",LED Live Tv
 https://drive.google.com/file/d/19_TaUy9fF-erC6CVM_TVCXEg9YEg0W3z/view?usp=drivesdk
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/dcs0DLB/image-search-1713977901722.png"group-title="",BTV
@@ -37,7 +37,7 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMjoxNDowNCBBTSZoYXNoX3ZhbHVlPVlkMWRQUlhHaU9vRm9GbUlrNGIrMGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
 
 #EXTINF:-13 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="",Desh TV
 http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
@@ -94,7 +94,7 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-31 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Move Bangla
-
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.ibb.co/1z1TSxQ/image-search-1713978845898.jpg"group-title="",BBC News
 
