@@ -78,3 +78,15 @@ http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
 
 #EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-27 tvg-logo="https://i.ibb.co/KrbSHWx/image-search-1713978702239.png"group-title="",Gaan Bangla
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="",Jamuna Tv
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-29 tvg-logo="https://i.ibb.co/mHSytvP/image-search-1713978761909.jpg"group-title="",Deepto Tv 
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-30 tvg-logo="https://i.ibb.co/stB7kfZ/image-search-1713978782093.png"group-title="",DBC News
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
