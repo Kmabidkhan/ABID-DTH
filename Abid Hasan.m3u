@@ -76,4 +76,5 @@ http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
 
-
+#EXTINF:-26 tvg-logo="https://i.ibb.co/VQ1gfpf/image-search-1713978502377.jpg"group-title="",SA TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
