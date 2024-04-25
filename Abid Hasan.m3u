@@ -51,3 +51,14 @@ http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-17 tvg-logo="https://i.ibb.co/F0JcPmj/image-search-1714012726746.png"group-title="",Bijoy TV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-18 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-19 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="",Independent TV
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-20 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-21 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
