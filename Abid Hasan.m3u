@@ -139,7 +139,7 @@ http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
 
 #EXTINF:-44 tvg-logo="https://i.ibb.co/QDnrC5P/image-search-1713979203435.png"group-title="",Colors Bangla Cinema
-http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-45 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -162,6 +162,9 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3
 #EXTINF:-51 tvg-logo="https://i.ibb.co/d0jxZmt/image-search-1713979386485.png"group-title="",Sony YAY
 http://portal.code-crafters.app/app/play.m3u8?id=1656
 
+#EXTINF:-55 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
 #EXTINF:-51 tvg-logo="https://i.ibb.co/YPf6Xhc/image-search-1714043490416.jpg"group-title="",Jugnu Kids Bangla
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714065436/ei/vDsqZpTCDqCF6dsP9b6PiAI/ip/86.107.43.88/id/qhH75EQkeco.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxty4OEdOEYqz2Skfb_IOvbb3twWAicM3vlPZafNHR_Yu7Mk7p1NlOq_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFCFHIBFZDLh9RWc3s18Zg7dqcmv-p2TlpVXBqHwGNMcCIC6OKUkxTMTyIj3DfUYoP1xnqNXEbKN0uKPdmgTCnhSE/file/index.m3u8
 
@@ -175,12 +178,13 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.ibb.co/F6PH4cB/image-search-1713979515577.png"group-title="",Star Sports 1
-https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
+http://103.107.79.87:8080/CH8106HD04/video.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
-https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
+http://103.107.79.87:8080/CH8107HD05/video.m3u8
 
-#EXTINF:-56 tvg-logo="https://i.ibb.co/rfXm37L/image-search-1713979538542.png"group-title="",Star Sports 3
-https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
+#EXTINF:-56 tvg-logo="https://i.ibb.co/CwnmncC/IMG-20240129-072239.jpg"group-title="",Sony Sports 1
+http://103.107.79.87:8080/CH8107HD04/video.m3u8
 
-
+#EXTINF:-57 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
+http://103.107.79.87:8080/CH8107HD05/video.m3u8
