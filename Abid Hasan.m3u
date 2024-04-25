@@ -32,7 +32,7 @@ http://66.45.232.131:9994/;stream.mp3
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-11 tvg-logo="https://i.ibb.co/mv6Y8JQ/image-search-1713977856611.png"group-title="",Boishakhi TV
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
 
@@ -47,7 +47,7 @@ https://myflixbd.com/0.m3u8
 
 
 #EXTINF:-16 tvg-logo="https://i.ibb.co/NSD4bfZ/image-search-1713978182323.png"group-title="",Mohona TV
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 
 #EXTINF:-17 tvg-logo="https://i.ibb.co/F0JcPmj/image-search-1714012726746.png"group-title="",Bijoy TV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
@@ -59,7 +59,21 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+#EXTINF:-22 tvg-logo="https://i.ibb.co/Q9NTwKq/image-search-1714012680908.png"group-title="",Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+
+#EXTINF:-23 tvg-logo="https://i.ibb.co/kqQzFpB/image-search-1714012605151.jpg"group-title="",Gazi Tv
+http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
+http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
+http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+
+
