@@ -1,1 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif"group-title="YAMIN  VAI",BONGO  FLIX
+https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5TA&export=download&authuser=0&confirm=t&uuid=0ce15247-7f6a-408c-97dc-80941186a3c0&at=APZUnTUc83qnX-KAbC0MPXImV4Lq:1712522805001
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co/dcs0DLB/image-search-1713977901722.png"group-title="",BTV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-3 tvg-logo="https://i.ibb.co/DCWFbcp/image-search-1713977918896.png"group-title="",BTV World
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/Kw9Ky36/image-search-1714009351777.png"group-title="",NTV
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-5 tvg-logo="https://i.ibb.co/7YQBt5n/image-search-1714012934633.gif"group-title="",ATN Bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-6 tvg-logo="https://i.ibb.co/prRwq9t/image-search-1714012900543.png"group-title="",News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+
+#EXTINF:-7 tvg-logo="https://i.ibb.co/4g0D1kQ/image-search-1713977784312.png"group-title="",Channel I
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-8 tvg-logo="https://i.ibb.co/k8MT30Q/image-search-1713977978851.png"group-title="",Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/2Z5ddCk/image-search-1714012840495.jpg"group-title="",Al Quran Redio
+http://66.45.232.131:9994/;stream.mp3
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-11 tvg-logo="https://i.ibb.co/mv6Y8JQ/image-search-1713977856611.png"group-title="",Boishakhi TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-12 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
+
+
+#EXTINF:-13 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="",Desh TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-14 tvg-logo="https://i.ibb.co/4V0Y3zC/image-search-1713978102121.png"group-title="",My TV
+https://myflixbd.com/0.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.ibb.co/vJgcwTy/image-search-1713978133621.png"group-title="",ATN News
+
+
+#EXTINF:-16 tvg-logo="https://i.ibb.co/NSD4bfZ/image-search-1713978182323.png"group-title="",Mohona TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-17 tvg-logo="https://i.ibb.co/F0JcPmj/image-search-1714012726746.png"group-title="",Bijoy TV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 
