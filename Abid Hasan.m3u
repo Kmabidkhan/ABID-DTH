@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfWmGwM/IMG-20240425-113851.jpg"group-title="",ABID HASAN
 
 
+
 #EXTINF:-2 tvg-logo="https://i.ibb.co/dcs0DLB/image-search-1713977901722.png"group-title="",BTV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 
@@ -60,5 +61,5 @@ https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-20 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 
-#EXTINF:-21 tvg-logo="https://i.ibb.co/8zxQhH2/IMG-20240425-122920.jpg"group-title="",Channel 9
+#EXTINF:-21 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
