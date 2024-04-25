@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfWmGwM/IMG-20240425-113851.jpg"group-title="",ABID HASAN
-
+https://drive.google.com/file/d/19_TaUy9fF-erC6CVM_TVCXEg9YEg0W3z/view?usp=drivesdk
 
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/dcs0DLB/image-search-1713977901722.png"group-title="",BTV
@@ -44,7 +44,7 @@ http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
 https://myflixbd.com/0.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/vJgcwTy/image-search-1713978133621.png"group-title="",ATN News
-
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-16 tvg-logo="https://i.ibb.co/NSD4bfZ/image-search-1713978182323.png"group-title="",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
