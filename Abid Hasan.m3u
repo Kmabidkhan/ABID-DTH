@@ -130,10 +130,10 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/NYZfn42/image-search-1713979139170.png"group-title="",Zee Bangla HD
-http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
+http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlml6QhoOngxcvfxYJLU5bk5A/m3u8
 
 #EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
-http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
+http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmqMo86tbqap4XYn8hNHjWJ4/m3u8
 
 #EXTINF:-43 tvg-logo="https://i.ibb.co/Qdt2F6v/image-search-1713979222513.png"group-title="",Sony aath
 http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
