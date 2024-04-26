@@ -191,5 +191,5 @@ http://103.107.79.87:8080/CH8107HD05/video.m3u8
 
 #EXTM3U (প্রথমে একবার দিতে হয়) 
 
-#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEb_3OmVOJWcyukKMyGm4Qsg9rhPVGf7SPf8cwliKh7Q.jpg", bolo na tumi amar
-http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHrfAjFDmVzoc202YeP2WYDg#.mp4
+#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxCf3rXOFWEsYMMWCkeKTamDd4XVQ6NYaYbUW2R_p1wE.jpg", paglu 2
+http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtQXMXmRyZ96opnsXIdUgPo#.mp4
