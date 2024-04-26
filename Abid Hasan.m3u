@@ -130,7 +130,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/NYZfn42/image-search-1713979139170.png"group-title="",Zee Bangla HD
-http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlml6QhoOngxcvfxYJLU5bk5A/m3u8
+http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmi39CEeqa_sCno3CAK4xBWU/ts
 
 #EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmqMo86tbqap4XYn8hNHjWJ4/m3u8
@@ -154,10 +154,10 @@ http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-49 tvg-logo="https://i.ibb.co/V2XNMYQ/image-search-1713979332046.png"group-title="",Nickelodeon
-http://watchindia.net:8880/live/83023/62335/2182.m3u8
+http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmgb9XNO8F6SBnNbOPSHlO68/ts
 
 #EXTINF:-50 tvg-logo="https://i.ibb.co/kGkhrcp/image-search-1713979365243.png"group-title="",Sonic
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
+http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmhYsdjthre8o5DbY7B5u8-0/ts
 
 #EXTINF:-51 tvg-logo="https://i.ibb.co/d0jxZmt/image-search-1713979386485.png"group-title="",Sony YAY
 http://portal.code-crafters.app/app/play.m3u8?id=1656
@@ -200,4 +200,8 @@ http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtQXMXmRyZ96opnsXIdUgPo#.mp4
 
 #EXTINF:-2 tvg-logo="http://tv.digitalview.live:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRyKs4-Qn4PFOk1Cqk4VItzhl2HKgSw6RAcO_2UDJFow.jpg", Tor Namm
 http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHrL2paj7bLSjq2ASJWL865I#.mp4
+
+#EXTINF:-1 tvg-logo="http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtW8HovadZBOsOjUfixW8EQ#.mp4", Apon Holo por
+http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtW8HovadZBOsOjUfixW8EQ#.mp4
+
 
