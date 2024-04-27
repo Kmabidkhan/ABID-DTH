@@ -130,7 +130,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/cFqGx08/IMG-20240427-022837.jpg"group-title="",Zee Bangla HD
-http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmi39CEeqa_sCno3CAK4xBWU/ts
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 
 #EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmqMo86tbqap4XYn8hNHjWJ4/m3u8
@@ -139,7 +139,7 @@ http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmqMo86tbqap4XYn8hNHjWJ4/m3u8
 http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
 
 #EXTINF:-44 tvg-logo="https://i.ibb.co/QDnrC5P/image-search-1713979203435.png"group-title="",Colors Bangla Cinema
-http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmv0nW6nzs2MG4CKDO0-yIQM/m3u8
+https://fr.tvanondo.online/sananda/video.m3u8
 
 #EXTINF:-45 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -154,10 +154,10 @@ http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-49 tvg-logo="https://i.ibb.co/V2XNMYQ/image-search-1713979332046.png"group-title="",Nickelodeon
-http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmgb9XNO8F6SBnNbOPSHlO68/ts
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.ibb.co/kGkhrcp/image-search-1713979365243.png"group-title="",Sonic
-http://live.bdix.xyz:8080/play/aW9AyLNTB50N_KCLkDNlmhYsdjthre8o5DbY7B5u8-0/ts
+
 
 #EXTINF:-51 tvg-logo="https://i.ibb.co/d0jxZmt/image-search-1713979386485.png"group-title="",Sony YAY
 http://portal.code-crafters.app/app/play.m3u8?id=1656
@@ -169,7 +169,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714065436/ei/vDsqZpTCDqCF6dsP9b6PiAI/ip/86.107.43.88/id/qhH75EQkeco.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxty4OEdOEYqz2Skfb_IOvbb3twWAicM3vlPZafNHR_Yu7Mk7p1NlOq_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFCFHIBFZDLh9RWc3s18Zg7dqcmv-p2TlpVXBqHwGNMcCIC6OKUkxTMTyIj3DfUYoP1xnqNXEbKN0uKPdmgTCnhSE/file/index.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/NxGyd12/image-search-1713979436584.png"group-title="",Discovery Kids
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
@@ -196,12 +196,12 @@ http://103.107.79.87:8080/CH8107HD05/video.m3u8
 move
 
 #EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxCf3rXOFWEsYMMWCkeKTamDd4XVQ6NYaYbUW2R_p1wE.jpg", paglu 2
-http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtQXMXmRyZ96opnsXIdUgPo#.mp4
+http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtQXMXmRyZ96opnsXId
 
 #EXTINF:-2 tvg-logo="http://tv.digitalview.live:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRyKs4-Qn4PFOk1Cqk4VItzhl2HKgSw6RAcO_2UDJFow.jpg", Tor Namm
-http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHrL2paj7bLSjq2ASJWL865I#.mp4
+http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHrL2paj7bLSjq2ASJWL86
 
 #EXTINF:-1 tvg-logo="http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtW8HovadZBOsOjUfixW8EQ#.mp4", Apon Holo por
-http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5T2DsHtW8HovadZBOsOjUfixW8EQ#.mp4
+http://live.bdix.xyz:8080/play/d9MWPk9by7RATif5
 
 
