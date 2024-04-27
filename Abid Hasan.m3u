@@ -37,10 +37,10 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://i.ibb.co/R4W5RM3/image-search-1713978022108.png"group-title="",Bangla Vision
-http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-13 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="",Desh TV
-http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
+http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-14 tvg-logo="https://i.ibb.co/4V0Y3zC/image-search-1713978102121.png"group-title="",My TV
 https://myflixbd.com/0.m3u8
@@ -126,14 +126,23 @@ http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-39 tvg-logo="https://i.ibb.co/stDr8v4/image-search-1713979052749.png"group-title="",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-40 tvg-logo="https://i.ibb.co/k4LjDDR/IMG-20240427-022558.jpg"group-title="",Star Jalsha HD
+#EXTINF:-40 tvg-logo="https://i.ibb.co/k4LjDDR/IMG-20240427-022558.jpg"group-title="",Star Jalsha 4k
 http://xtv.ooo:8080/Sehrish/12345/245898
+
+#EXTINF:-40 tvg-logo="https://i.ibb.co/k4LjDDR/IMG-20240427-022558.jpg"group-title="",Star Jalsha HD
+http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/cFqGx08/IMG-20240427-022837.jpg"group-title="",Zee Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
+#EXTINF:-41 tvg-logo="https://i.ibb.co/cFqGx08/IMG-20240427-022837.jpg"group-title="",Zee Bangla HD
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
+
 #EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245895
+
+#EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla 
+http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
 
 #EXTINF:-43 tvg-logo="https://i.ibb.co/Qdt2F6v/image-search-1713979222513.png"group-title="",Sony aath
 http://xtv.ooo:8080/Sehrish/12345/245989
