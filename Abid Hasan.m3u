@@ -66,7 +66,7 @@ http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/QYfTw9H/image-search-1713978334831.png"group-title="",Channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
-#EXTINF:-22 tvg-logo="https://i.ibb.co/Q9NTwKq/image-search-1714012680908.png"group-title="",Channel 24
+#EXTINF:-22 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="",Channel 24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 
 #EXTINF:-23 tvg-logo="https://i.ibb.co/kqQzFpB/image-search-1714012605151.jpg"group-title="",Gazi Tv
@@ -132,13 +132,13 @@ http://xtv.ooo:8080/Sehrish/12345/245898
 #EXTINF:-40 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-40 tvg-logo="https://i.ibb.co/Th0ZcPM/20240427-172401.jpg"group-title="",Star Jalsha HD
+#EXTINF:-40 tvg-logo="https://i.ibb.co/hZyNcth/20240428-030126.png"group-title="",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-41 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/QcCFHLC/20240427-191041.jpg"group-title="",Zee Bangla HD
+#EXTINF:-41 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="",Zee Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-41 tvg-logo="https://i.ibb.co/cFqGx08/IMG-20240427-022837.jpg"group-title="",Zee Bangla HD
+#EXTINF:-41 tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg"group-title="",Zee Bangla HD
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 
 #EXTINF:-42 tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png"group-title="",Colors Bangla HD
