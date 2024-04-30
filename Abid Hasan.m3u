@@ -45,7 +45,7 @@ http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-14 tvg-logo="https://i.ibb.co/4V0Y3zC/image-search-1713978102121.png"group-title="",My TV
 https://myflixbd.com/0.m3u8
 
-#EXTINF:-15 tvg-logo="https://i.ibb.co/vJgcwTy/image-search-1713978133621.png"group-title="",ATN News
+#EXTINF:-15 tvg-logo="https://i.ibb.co/sKPJXcq/20240430-075119.png"group-title="",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-16 tvg-logo="https://i.ibb.co/NSD4bfZ/image-search-1713978182323.png"group-title="",Mohona TV
