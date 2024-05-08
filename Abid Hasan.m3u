@@ -206,11 +206,11 @@ http://xtv.ooo:8080/Sehrish/12345/109983
 http://xtv.ooo:8080/Sehrish/12345/109984
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y434M2w/20240508-064242.png", hubba 27/40
+http://103.112.150.230/Data/disk1/movies/animation/new/Kung%20Fu%20Panda%204%20(2024)/Kung%20Fu%20Panda%204.mp4
 
 
 
-move
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhXWGXR/kung-fu-panda-four-ver5.jpg", Kung Fu Panda 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hsMqxKP/image-search-1715117119857.jpg", hubba normal
 http://103.112.150.230/Data/disk1/movies/animation/new/Kung%20Fu%20Panda%204%20(2024)/Kung%20Fu%20Panda%204.mp4
 
