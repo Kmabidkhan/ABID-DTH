@@ -2,3 +2,15 @@
 
 #EXTINF:-1 tvg-logo="https://ibb.co/yS84sb0"group-title="",BTV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kbfww9F/20240518-070952.png" group-title="BANGLADESHI CHANNEL", BTV HD
+https://starshare.live:8080/live/12346/12346/413.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9W918q/20240518-070900.png" group-title="BANGLADESHI CHANNEL", BTV CHATTAGRAM 
+https://starshare.live:8080/live/12346/12346/98872.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NV7x68S/20240518-070814.png" group-title="BANGLADESHI CHANNEL", SANGSAD TV
+https://starshare.live:8080/live/12346/12346/98876.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1b8Jw9/20240518-083051.png" group-title="BANGLADESHI CHANNEL", ATN BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245893
